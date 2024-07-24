@@ -21,11 +21,6 @@ Application made in Unity and Vuforia Engine to detect markers on "Harry Potter:
 
 ## Printing markers
 
-### Vuforia (MarcinMarks)
-You can download MarcinMarks from https://drive.google.com/drive/folders/1BIFQBBmdC4qUxUZUXfnEZBJeS3x8ttCm?usp=share_link and print it.
-Application should detect this markers when you set active MarcinMarks object in GameScene (no models for characters yet, just plain 3D shapes).
-This marker detection is worse option for Vuforia. It is based on image detection without VuMarks. MarcinMarks images are rated 5 stars in Vuforia Database.
-
 ### Vuforia (VuMarks)
 You can download VuMarks from https://drive.google.com/drive/folders/1BIFQBBmdC4qUxUZUXfnEZBJeS3x8ttCm?usp=share_link and print it.
 Application should detect this markers when you set active VuMarks object in GameScene (no models for characters yet, just plain 3D shapes).
